@@ -18,7 +18,7 @@
 
 文字入れる文字入れる文字入れる文字入れる文字入れる文字入れる
 
-### TechStack
+### ◎TechStack
 
 | Title |                           詳細 |
 | :------- | -----------------------------------------: |
@@ -27,11 +27,11 @@
 | PatchWallet/LitProtocol   | testtesttesttesttesttesttest |
 
 
-### ユーザーフロー
+### ◎ユーザーフロー
 
 testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
 
-### 各実装内容
+### ◎各実装内容
 
 **実装状況**
 
