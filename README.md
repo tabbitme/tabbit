@@ -1,3 +1,6 @@
+
+![tabbit](https://github.com/tabbitme/tabbit/assets/8872443/8f930eaa-92c9-4679-9b13-cc334c7eca03)
+
 # TABBIT - ERC6551を活用した観光チケットプラットフォーム
 
 ## サマリー
