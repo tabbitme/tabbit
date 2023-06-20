@@ -43,7 +43,7 @@ TABBIT の NFT チケットサービスは、"新規顧客の獲得"と"コス�
 
 | Title          |                                                              URL |
 | :------------- | ---------------------------------------------------------------: |
-| デモ動画       |                                                              TBD |
+| デモ動画       |                                     https://youtu.be/XpNz4fmwth4 |
 | デモサイト     |                                 https://tabbit-front.vercel.app/ |
 | コントラクト   | [tabbit-contracts](https://github.com/tabbitme/tabbit-contracts) |
 | フロントエンド |         [tabbit-front](https://github.com/tabbitme/tabbit-front) |
