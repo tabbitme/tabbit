@@ -1,6 +1,6 @@
 ![Group 15](https://github.com/tabbitme/tabbit/assets/8872443/0b9a83e6-0c9a-4cab-bbcd-dc3be7273073)
 
-# TABBIT - NFTで確認する観光のカタチ -
+# TABBIT - NFTで革新する観光のカタチ -
 
 ## 課題
 
