@@ -1,6 +1,6 @@
 ![Group 15](https://github.com/tabbitme/tabbit/assets/8872443/0b9a83e6-0c9a-4cab-bbcd-dc3be7273073)
 
-# TABBIT - 観光産業向け ERC6551 を活用した NFT チケット発行プロトコル
+# TABBIT - NFTで確認する観光のカタチ -
 
 ## 課題
 
